@@ -7,7 +7,7 @@ This allows you to finish your microsoft rewards with the tap of a button.
 This uses javascript, node.js, and opn.
 Very simple to set up.
 
-Ok for this to work you need to install a package called opn. https://www.npmjs.com/package/opn if you want to install it open your command prompt or terminal, and type $ npm install opn. If that doesnt work remove the "$" = npm install opn 
+Ok for this to work you need to install a package called opn. https://www.npmjs.com/package/opn if you want to install it open your command prompt or terminal, and type $ npm install opn. If that doesnt work remove the "$" = npm install opn . Thats for mac at least. 
 
 Next install node js. https://www.wikihow.com/Install-Node.Js-on-Windows.  
 https://blog.teamtreehouse.com/install-node-js-npm-mac
