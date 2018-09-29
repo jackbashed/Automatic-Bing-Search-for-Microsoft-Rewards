@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=TQks1p7xjdI
 
 Now, it should be as simple as typing, node BingGitHub.js
 if that doesnt work you may need to move the file into your user. /users/(name)/BingGitHub.js
+
+If you would like to support me - https://paypal.me/pools/c/88i9VOnyJZ
+
+Also this was created on a mac so bear with me for windows.
